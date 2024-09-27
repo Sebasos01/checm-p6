@@ -10,21 +10,21 @@ A continuación, se describen las reacciones químicas balanceadas para cada exp
 
 1. **Oxidación del yoduro por peróxido de hidrógeno:**
 
-   \[
+   $$
    \text{H}_2\text{O}_2 + 2\text{I}^- + 2\text{H}^+ \rightarrow \text{I}_2 + 2\text{H}_2\text{O}
-   \]
+   $$
 
 2. **Reducción del yodo por sulfito:**
 
-   \[
+   $$
    \text{SO}_3^{2-} + \text{I}_2 + \text{H}_2\text{O} \rightarrow 2\text{I}^- + \text{SO}_4^{2-} + 2\text{H}^+
-   \]
+   $$
 
 3. **Formación del complejo azul con almidón:**
 
-   \[
+   $$
    \text{I}_2 + \text{Almidón} \rightarrow \text{Complejo azul}
-   \]
+   $$
 
 **b) Razonamiento y Relación con la Velocidad de Reacción:**
 
@@ -46,15 +46,15 @@ A continuación, se describen las reacciones químicas balanceadas para cada exp
 
 1. **Reacción del magnesio con agua:**
 
-   \[
+   $$
    \text{Mg} + 2\text{H}_2\text{O} \rightarrow \text{Mg(OH)}_2 + \text{H}_2 \uparrow
-   \]
+   $$
 
 2. **Reacción del sodio con agua:**
 
-   \[
+   $$
    2\text{Na} + 2\text{H}_2\text{O} \rightarrow 2\text{NaOH} + \text{H}_2 \uparrow
-   \]
+   $$
 
 **b) Razonamiento y Relación con la Velocidad de Reacción:**
 
@@ -78,9 +78,9 @@ A continuación, se describen las reacciones químicas balanceadas para cada exp
 
 1. **Desplazamiento del cobre por hierro:**
 
-   \[
+   $$
    \text{Fe (s)} + \text{Cu}^{2+} (aq) \rightarrow \text{Fe}^{2+} (aq) + \text{Cu (s)}
-   \]
+   $$
 
 **b) Razonamiento y Relación con la Velocidad de Reacción:**
 
@@ -100,9 +100,9 @@ A continuación, se describen las reacciones químicas balanceadas para cada exp
 
 1. **Descomposición del peróxido de hidrógeno:**
 
-   \[
+   $$
    2\text{H}_2\text{O}_2 \rightarrow 2\text{H}_2\text{O} + \text{O}_2 \uparrow
-   \]
+   $$
 
 **b) Razonamiento y Relación con la Velocidad de Reacción:**
 
@@ -226,9 +226,9 @@ A continuación, se describen las reacciones químicas balanceadas para cada exp
 
 - **Descomposición Catalítica del Peróxido de Hidrógeno:**
 
-   \[
+   $$
    2\text{H}_2\text{O}_2 \xrightarrow{\text{Catalizador}} 2\text{H}_2\text{O} + \text{O}_2 \uparrow
-   \]
+   $$
 
 - **Mecanismo:**
   - Los iones metálicos **Cu²⁺** y **Fe³⁺** facilitan la ruptura del enlace O-O en **H₂O₂**, disminuyendo la energía de activación.
